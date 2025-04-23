@@ -33,6 +33,6 @@
 ## 🤝 Let's Connect!  
 <p align="center">
   <a href="(https://www.linkedin.com/in/kiraan-reddy-704518b7/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://www.linkedin.com/in/kiraan-reddy-704518b7/" alt="LinkedIn">
   </a>  
 </p>
