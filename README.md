@@ -36,4 +36,12 @@
   <a href="https://www.linkedin.com/in/kiraan-reddy-704518b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
+  &nbsp;
+  <a href="https://github.com/kkyreddy1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:kiran.reddy.7y@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
